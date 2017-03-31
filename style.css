@@ -1,0 +1,41 @@
+body {
+    background-repeat: no-repeat !important;
+    background-size: cover !important;
+}
+
+h1 {
+    color: white;
+}
+
+.secOne {
+    margin: auto;
+    padding: auto;
+}
+
+.location {
+    width: 30%;
+    height: auto;
+    position: relative;
+    background: #DCDCDC;
+    border-radius: 20px;
+    opacity: 0.9;
+    text-align: center;
+    /*position: absolute;
+  font: 24px;*/
+    padding: 10px;
+    margin-left: 35%;
+    margin-top: 5%;
+}
+
+#txt1 {
+    font-size: 23px;
+    font-weight: bold;
+}
+
+#txt2 {
+    font-size: 30px;
+}
+
+#txt3 {
+    font-size: 18px;
+}
