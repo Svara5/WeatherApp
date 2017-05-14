@@ -66,6 +66,9 @@ var weatherData = {
                     case "Mist":
                         $('body').css("background", "url(http://www.khoras.net/Khoras/Planet/Forests/Mist%20Forest/MistForest.jpg)");
                         break;
+                    /*case "Atmosphere":
+                        $('body').css("background", "http://kingofwallpapers.com/atmosphere/atmosphere-003.jpg)");
+                        break;*/
 
                     default:
                         $('body').css("background", "url(http://www.solidbackgrounds.com/images/2560x1440/2560x1440-black-solid-color-background.jpg)");
